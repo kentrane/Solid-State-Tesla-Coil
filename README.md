@@ -1,3 +1,3 @@
-# Solid State Tesla Coil
+# Solid State Tesla Coil Driver Board
  Tesla coil design for fun and danger, but mostly fun
 ![Schematic](schematic.png?raw=true "Schematic")
