@@ -14,3 +14,10 @@ Component list:
 |                            |                            |                                                                                                                                                              |           |          |             |        |           |
 |                            |                            |                                                                                                                                                              |           |          |             |        |           |
 | Pris                       |                            |                                                                                                                                                              |           |          |             |        | 1216,49   |
+
+NE555: https://dk.rs-online.com/web/p/timer-kredse/0785818
+1N4148: https://dk.rs-online.com/web/p/switching-dioder/7082163?gb=s
+Ensretterbro: https://dk.rs-online.com/web/p/brokoblede-ensrettere/6296358
+Inverter: https://dk.rs-online.com/web/p/invertere/1841263
+Ferrite: https://dk.rs-online.com/web/p/ferritringe/2120910
+Komparator: https://dk.rs-online.com/web/p/komparatorer/0528343
