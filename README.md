@@ -11,13 +11,10 @@ Component list:
 | MosFET                     | IPW60R099P6XKSA1           | [https://dk.rs-online.com/web/p/mosfet/2207457](https://dk.rs-online.com/web/p/mosfet/2207457)                                                               | 220-7457  | 51,2     | 2           | 8      | 409,6     |
 | Primær tank-kondensator    | GR355DD72W474KW01L (470nF) | [https://dk.rs-online.com/web/p/keramiske-flerlags-kondensatorer-mlcc/8467252](https://dk.rs-online.com/web/p/keramiske-flerlags-kondensatorer-mlcc/8467252) | 846-7252  | 16,83    | 2           | 8      | 134,64    |
 | Bootstrap diode            | STTH2R06                   | https://dk.rs-online.com/web/p/switching-dioder/7958486                                                                                                      | 795-8486  | 3,852    | 10          | 10     | 38,52     |
+| Turn off diode             | 1N4148WT-7                 | https://dk.rs-online.com/web/p/switching-dioder/7082163?gb=s                                                                                                 | 708-2163  | 0,177    | 50          | 50     | 8,85      |
+| Interrupter timer          | NE555                      | https://dk.rs-online.com/web/p/timer-kredse/0785818                                                                                                          | 785-818   | 4,49     | 1           | 8      | 35,92     |
+| Rectifier                  | GBPC3510-E4/51             | https://dk.rs-online.com/web/p/brokoblede-ensrettere/6296358                                                                                                 | 629-6358  | 38,22    | 1           | 4      | 152,88    |
+| Schmitt-inverter           | MM74HC14M                  | https://dk.rs-online.com/web/p/invertere/1841263                                                                                                             | 184-1263  | 3,988    | 25          | 25     | 99,7      |
+| OCP comparator             | LM393DR                    | https://dk.rs-online.com/web/p/komparatorer/0528343                                                                                                          | 528-343   | 1,939    | 25          | 25     | 48,475    |
 |                            |                            |                                                                                                                                                              |           |          |             |        |           |
-|                            |                            |                                                                                                                                                              |           |          |             |        |           |
-| Pris                       |                            |                                                                                                                                                              |           |          |             |        | 1216,49   |
-
-NE555: https://dk.rs-online.com/web/p/timer-kredse/0785818
-1N4148: https://dk.rs-online.com/web/p/switching-dioder/7082163?gb=s
-Ensretterbro: https://dk.rs-online.com/web/p/brokoblede-ensrettere/6296358
-Inverter: https://dk.rs-online.com/web/p/invertere/1841263
-Ferrite: https://dk.rs-online.com/web/p/ferritringe/2120910
-Komparator: https://dk.rs-online.com/web/p/komparatorer/0528343
+| Pris                       |                            |                                                                                                                                                              |           |          |             |        | 1562,315  |
