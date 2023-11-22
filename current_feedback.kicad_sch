@@ -532,10 +532,10 @@
     (property "Datasheet" "~" (at 78.74 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "4" (uuid abf3a609-21c9-44bb-8bb0-696a24e41535))
-    (pin "3" (uuid 20aba622-a350-4df7-81b5-20faa57aed90))
-    (pin "2" (uuid 8e4de2f8-9b7c-4608-a9cb-b561779a02cc))
     (pin "1" (uuid 2370619b-10b5-4252-9b91-22004e8e8455))
+    (pin "2" (uuid 8e4de2f8-9b7c-4608-a9cb-b561779a02cc))
+    (pin "3" (uuid 20aba622-a350-4df7-81b5-20faa57aed90))
+    (pin "4" (uuid abf3a609-21c9-44bb-8bb0-696a24e41535))
     (instances
       (project "TC_SS"
         (path "/3ea854a4-6c65-43a0-a0e2-a46500cc93c9"
