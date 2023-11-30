@@ -1,10 +1,12 @@
 # Solid State Tesla Coil Driver Board
  Tesla coil design for fun and danger, but mostly fun
- 
+## Introduction
+This is a design for a basic DRSSTC using an H-bridge 
+## Schematic 
 ![Power_PCB](PCB_Power.png?raw=true "Schematic")
 ![Schematic](schematic.png?raw=true "Schematic")
 
-Component list:
+## Component list:
 | Komponent funktion         | Værdi                      | Link                                                                                                                                                         | RS nummer | stykpris | Minimumskøb | Mængde | Totalpris |
 | -------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | -------- | ----------- | ------ | --------- |
 | Input kondensator          | 330uF                      | [https://dk.rs-online.com/web/p/elektrolytkondensatorer/7063336](https://dk.rs-online.com/web/p/elektrolytkondensatorer/7063336)                             | 706-3336  | 18,56    | 1           | 20     | 371,2     |
